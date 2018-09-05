@@ -6,3 +6,5 @@
 - The file "train.sh" in /DL-Source code/myself is used for network training.
 - The file "test.sh" in /DL-Source code/myself is used for testing.
 - The "yunxing_cnn.py" in /DL-Source code/python_script could be used to test and have the evaluation indices.
+
+
